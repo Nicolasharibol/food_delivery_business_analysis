@@ -81,7 +81,7 @@ Throughout this project I applied:
 
 ### Executive Dashboard 1
 
-![Executive Dashboard 1](/Users/admin/Desktop/food delivery analysis in SQL/5.sql queries/dashboard_1.png)
+![Executive Dashboard 1](images/dashboard_1.png)
 
 ### Executive Dashboard 2
 
