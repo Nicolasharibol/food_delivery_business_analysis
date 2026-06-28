@@ -154,4 +154,4 @@ Used for educational and portfolio purposes.
 
 ## About This Project
 
-This project was developed as part of my Data Analytics learning journey to strengthen my SQL, Tableau, and business analysis skills. It demonstrates an end-to-end workflow—from raw datasets to actionable business insights—while emphasizing analytical thinking, data validation, and clear communication of results.
+This project was developed as part of my Data Analytics learning journey to strengthen my SQL, Tableau, and business analysis skills. It demonstrates an end-to-end workflow, from raw datasets to actionable business insights, while emphasizing analytical thinking, data validation, and clear communication of results.
