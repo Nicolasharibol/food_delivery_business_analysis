@@ -29,7 +29,7 @@ This project answers the following business questions:
 
 ## Repository Structure
 
-```
+```text
 food_delivery_business_analysis/
 │
 ├── data/
@@ -38,25 +38,25 @@ food_delivery_business_analysis/
 │   ├── customer_summary.csv
 │   └── weather_daily.csv
 │
-├── sql/
-│   └── food_delivery_analysis.sql
-│
-├── tableau/
-│   └── food_delivery_dashboard.twbx
-│
 ├── exports/
-│   ├── restaurant_revenue.csv
-│   ├── order_performance.csv
-│   ├── top_20_customers.csv
-│   ├── revenue_share_restaurants.csv
-│   └── basket_size_vs_ratings.csv
+│   ├── 1.restaurant_revenue.csv
+│   ├── 2.order_performance.csv
+│   ├── 3.top_20_customers.csv
+│   ├── 4.revenue_share_restaurants.csv
+│   └── 5.basket_size_vs_ratings.csv
 │
-├── dashboards/
+├── images/
 │   ├── executive_dashboard_1.png
 │   └── executive_dashboard_2.png
 │
-└── report/
-    └── Food_Delivery_Business_Analysis.pdf
+├── report/
+│   └── Food_Delivery_Business_Analysis.pdf
+│
+├── sql/
+│   └── food_delivery_analysis.sql
+│
+└── tableau/
+    └── tableau.twbx
 ```
 
 ---
