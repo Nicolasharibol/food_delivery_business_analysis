@@ -85,7 +85,7 @@ Throughout this project I applied:
 
 ### Executive Dashboard 2
 
-![Executive Dashboard 2](dashboards/executive_dashboard_2.png)
+![Executive Dashboard 2](images/dashboard_2.png)
 
 ---
 
