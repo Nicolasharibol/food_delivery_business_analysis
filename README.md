@@ -66,11 +66,10 @@ food_delivery_business_analysis/
 Throughout this project I applied:
 
 - INNER JOIN
-- LEFT JOIN
 - GROUP BY
 - Aggregate Functions (`SUM`, `COUNT`, `AVG`)
 - CASE WHEN
-- Conditional Aggregation
+- Conditional Aggregation, Conditional Transformation
 - Common Table Expressions (CTEs)
 - Window Functions
 - Revenue Share Calculations
